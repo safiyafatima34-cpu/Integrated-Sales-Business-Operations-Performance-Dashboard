@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is a Data Analytics and Visualization project created using Tableau.
+
 It analyzes sales, profit, customers, products, and geographical performance.
 
 ## Tools Used
